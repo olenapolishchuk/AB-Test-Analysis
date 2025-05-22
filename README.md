@@ -45,3 +45,10 @@ Each row represents one user, assigned to either Group A or B.
 - `ab_test.csv` — user-level A/B test data
 - `ab_test_analysis.ipynb` — full Jupyter analysis
 - `ab_test_summary_report.pdf` — PDF-report
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
